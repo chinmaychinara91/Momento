@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "amamomento-186004",
+  "private_key_id": "a806b842aa69098725be9987f6c2d7f961f70456",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDPGNU7AyZD40Dm\nBovwF5vVbveNQgQV2WctpIlDdJlRMuOm392pEPFOqbWQnHrC6goPvgc/cX93BSas\n/Z1ZMSj3ve96lOvl3mI2zK2YRXxMqi+wjdiyXBhyHqsQgbpq8+16l2EOPlNI13cd\nBP2HZihWI6x0Eho4PProdnVcuAZ9t5iFTHnyTmLKSNbOmQellafFJCs69shWVVl8\nXXVyH4Fe77Sqe0eMp5oZUXh+CdnPEwR5izlh/ScIigwefV7iMIHfUAuJpy3ysNpq\n2jeKaKAVctPC6OoDZ8naaANXOpA++C+Eu/CugCOpKeRhs5qUiiHsTn4eJI8COs6Z\nzsdJFP5TAgMBAAECggEATZ2u/Mj3ZGYdgphdhgQzIVDPcp+VTGMIanDKCQAAHhCG\nhZpNRvnUlnjAVYxv7fEtCC1eJgbxkLfbgOYkPLNR+Ve0EysRJjusb4FSZklUhp8Z\n9H+VAXPGra6UykD0jvUQwetOMrplGF24hKXEJyTAZVhFX9MRBJbGKq2K2s8Vj7O8\npvC+OMeS0pScq7BJQVVmDlbTMf5Q6jPnyriS04TGap7LAG6cfzwZCUor8aswzMLI\no9zrTUiMpQlfNKnLn5a8+fIGCIJoLLtpWsgT7BnK8y+ThmZfRaGR7zLzHnuW7pR0\n3Q35OC3SS6h+BC6AX7h6s5TpaTkVpx7CQf2J2DC6MQKBgQDx24qCyC85dq6ECz9S\neMX6LsSu7gA0vc9nClCCXGTAmgKqXiUCpZW2UZCEIpCrVGocu/mpGr3PATGdxBoZ\nZSqVbIPO6gRI0FbneRlwXSvtDkFlUZam50f6BltM7hcHNylHE1qN/zgVYoO6VpXp\n/hzLP+sMgGrnuF1ROaOo0+ThdwKBgQDbNPKLJk8muCUpAcrt1hae5O3s+zaf2O0m\n2AWDNSsRUkkYuyzMYJIFvlcG8/G5ebnhJYyRxu0G4fLu57U2Ab2lu/7pZ2mFnAzM\ny6y9C0iB8sJhr4ZGPJJMWX3QuSf7PVhYowu6y7lti0NnLOaRvACLA9vl3lHAd6hn\nSvM8FOXhBQKBgQCBt6xMhK2/dkYXkCjARQJ6MsdOw1vc7cjljQStRnzLSE8RrTjQ\neJsZlBmcpSVOnxHio3c+GZegBRXldh5BbJ8wUWlIev8dRpC1yZ+5Ql+i3zh37RCO\nKBHUqcAiPLihKBa9hkXVTwN3hMT+Fh6Fx8MNyBR7Og0chyeVvwJmNG/X9QKBgQC/\n7ULzjK4+o3p9xgEMbqdNpfmfxXBVUpSJrxhcgh/cQaSYj8GwjFktyDLgdpRNpgOW\n2s6SEI8VuJ2AicWCrNGEm+6cI5wjjLc0VJxAxPFOPePtrcYuFvis+qoLJyKXemWw\n7cjmW1tWS1nPq2ORc/8xuEY/pIEFuH7tOZVwJIgFlQKBgASAdpli7ozl9IzYQkEb\nZfDrO90XXQBD1p6WMYH2k8axRCcfK9fA370xt6L1kNnxB4WiV9K5wlelsnUj907s\nMichQSHJdSx4I/uIqVk6+ZDeVYT6rz8nzqQRglinOyRswpuJp1rbC3/0n1xgXfOH\n++CFQlU2PbGDC1O//5IHxc5Y\n-----END PRIVATE KEY-----\n",
+  "client_email": "momento-access@amamomento-186004.iam.gserviceaccount.com",
+  "client_id": "116065627956281034600",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/momento-access%40amamomento-186004.iam.gserviceaccount.com"
+}
